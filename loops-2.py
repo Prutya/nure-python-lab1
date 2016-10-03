@@ -1,4 +1,3 @@
-
 class Kvadrat(object):
     def __init__(self, dlina_storoni, vivoditel):
         self.dlina_storoni = dlina_storoni
